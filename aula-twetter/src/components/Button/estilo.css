@@ -1,0 +1,16 @@
+button{
+font-size: 15px;
+padding: 5px;
+border: 0;
+margin: 0 5px;
+border-radius: 5px;
+}
+.padrao{
+background:blue;
+}
+.cancelar{
+background: red;
+}
+.aceitar{
+background: green;
+}
